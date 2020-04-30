@@ -1,0 +1,5 @@
+Angelica File Module Error Log
+Created(or opened) on 01/05/2020 03:29:51
+
+[03:29:51.853] AFilePackGame::Open(), Can not open file [C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\bin\Debug\configs.pck]
+[03:29:51.853] AFilePackMan::OpenFilePackageInGame(), Can not open package [configs.pck]

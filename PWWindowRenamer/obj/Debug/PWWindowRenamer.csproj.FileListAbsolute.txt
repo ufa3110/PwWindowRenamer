@@ -1,0 +1,8 @@
+C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\bin\Debug\PWWindowRenamer.exe.config
+C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\bin\Debug\PWWindowRenamer.exe
+C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\bin\Debug\PWWindowRenamer.pdb
+C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\obj\Debug\PWWindowRenamer.csprojAssemblyReference.cache
+C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\obj\Debug\PWWindowRenamer.exe
+C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\obj\Debug\PWWindowRenamer.pdb
+C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\bin\Debug\WindowsBase.dll
+C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\obj\Debug\PWWindowRenamer.csproj.CopyComplete
