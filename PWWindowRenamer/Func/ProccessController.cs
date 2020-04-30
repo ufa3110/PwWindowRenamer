@@ -12,8 +12,12 @@ namespace PWWindowRenamer.Func
 
         public Task Start(string cilentFullPath, String WindowTitle)
         {
-            var processInfo = new ProcessStartInfo(cilentFullPath);
-            processInfo.WorkingDirectory = cilentFullPath.Substring(0, cilentFullPath.LastIndexOf("//") + 2);
+            var path = cilentFullPath.Substring(0, cilentFullPath.LastIndexOf(".exe")+4);
+            var argsStart = cilentFullPath.LastIndexOf(".exe") +4;
+            var args = cilentFullPath.Substring(argsStart);
+
+            var processInfo = new ProcessStartInfo(path, args);
+            processInfo.WorkingDirectory = cilentFullPath.Substring(0, cilentFullPath.LastIndexOf("//"));
             var startedProcess = Process.Start(processInfo);
             while (startedProcess.MainWindowHandle ==  (IntPtr) 0)
             {

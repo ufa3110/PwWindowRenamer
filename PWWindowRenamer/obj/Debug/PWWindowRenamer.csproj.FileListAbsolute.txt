@@ -6,3 +6,10 @@ C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\obj\Debug\PWWindowRe
 C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\obj\Debug\PWWindowRenamer.pdb
 C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\bin\Debug\WindowsBase.dll
 C:\Users\azatu\source\repos\PWWindowRenamer\PWWindowRenamer\obj\Debug\PWWindowRenamer.csproj.CopyComplete
+C:\Users\azatu\OneDrive\Документы\GitHub\PwWindowRenamer\PWWindowRenamer\obj\Debug\PWWindowRenamer.exe
+C:\Users\azatu\OneDrive\Документы\GitHub\PwWindowRenamer\PWWindowRenamer\obj\Debug\PWWindowRenamer.pdb
+C:\Users\azatu\OneDrive\Документы\GitHub\PwWindowRenamer\PWWindowRenamer\bin\Debug\PWWindowRenamer.exe.config
+C:\Users\azatu\OneDrive\Документы\GitHub\PwWindowRenamer\PWWindowRenamer\bin\Debug\PWWindowRenamer.exe
+C:\Users\azatu\OneDrive\Документы\GitHub\PwWindowRenamer\PWWindowRenamer\bin\Debug\PWWindowRenamer.pdb
+C:\Users\azatu\OneDrive\Документы\GitHub\PwWindowRenamer\PWWindowRenamer\bin\Debug\WindowsBase.dll
+C:\Users\azatu\OneDrive\Документы\GitHub\PwWindowRenamer\PWWindowRenamer\obj\Debug\PWWindowRenamer.csproj.CopyComplete
